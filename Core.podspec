@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "Core"
   spec.version      = "1.5.0"
-  spec.summary      = "A short description of Core."
+  spec.summary      = "This framework is part from Gamecenter2"
   spec.swift_version = "5.1"
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
