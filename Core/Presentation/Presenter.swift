@@ -8,7 +8,7 @@
 import SwiftUI
 import Combine
 
-enum PresenterStatus {
+public enum PresenterStatus {
     case initial
     case loading
     case success
